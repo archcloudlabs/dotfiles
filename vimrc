@@ -41,5 +41,3 @@ if &diff
         syntax off
 endif
 
-
-
